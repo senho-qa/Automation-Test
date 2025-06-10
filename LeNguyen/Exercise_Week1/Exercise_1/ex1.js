@@ -11,7 +11,7 @@
 // Exercise 6 :  Write a function isTest that takes a number and returns true if it's even, otherwise false.(function)
 
 // Exercise 1
-var a = 16;
+let a = 16;
 
 if (a < 15) {
     console.log('Cold')

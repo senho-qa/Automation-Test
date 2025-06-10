@@ -1,5 +1,5 @@
 // Exercise 2 : Input a number (1–12) and use a switch-case to print the name of the month. (switch-case)
-var month = 13; // 1, 2, 3, 4, 5, 6, 7, 8, 9, 10
+let month = 13; // 1, 2, 3, 4, 5, 6, 7, 8, 9, 10
 
 switch(month) {
     case 1: 
