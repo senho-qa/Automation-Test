@@ -1,0 +1,1 @@
+//div[@class='user-menu-item' and text()='Đăng xuất']
